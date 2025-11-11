@@ -1,0 +1,47 @@
+#
+# Visual Studio / .NET Core / .NET Framework specific ignores
+#
+/bin/
+/obj/
+*.pdb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2017 and later
+.vs/
+# Exclude the project cache files (optional, but generally safe)
+# *.dacpac
+# *.npkg
+# *.nupkg
+
+# NuGet package restore
+# Packages directory is generally ignored, as packages should be restored
+# during the build process.
+**/packages/
+# NuGet tool files
+.nuget/
+
+# Logs and temporary files
+*.log
+*.bak
+*.cache
+*.scc
+*.rpt
+*.vssscc
+
+# Test results
+TestResults/
+
+# C++ files (if applicable)
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+
+# Other generated files
+*.resharper
+*.dotSettings
+*.pidb
