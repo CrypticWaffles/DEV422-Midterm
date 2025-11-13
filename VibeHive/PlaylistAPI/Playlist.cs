@@ -18,9 +18,9 @@
         /// <param name="name"></param>
         /// <param name="createdByUserId"></param>
         /// <param name="isCollaborative"></param>
-        public Playlist(string name, Guid createdByUserId)
+        public Playlist(string name, Guid id, Guid createdByUserId)
         {
-            Id = Guid.NewGuid();
+            Id = id;
             Name = name;
             CreatedByUserId = createdByUserId;
             IsCollaborative = false;
@@ -29,8 +29,15 @@
         // Define a DTO for input data
         public class PlaylistCreationDto
         {
+            public Guid Id { get; set; }
             public string Name { get; set; }
             public bool IsCollaborative { get; set; } = false; // Optional
+        }
+
+        public override string ToString()
+        {
+            // This will be displayed in the ListBox
+            return $"{Name} Songs: {Songs.Count}";
         }
     }
 }

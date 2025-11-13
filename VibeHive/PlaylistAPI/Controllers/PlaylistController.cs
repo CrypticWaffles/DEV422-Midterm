@@ -24,7 +24,7 @@ namespace PlaylistAPI.Controllers
         /// <param name="playlist"></param>
         /// <returns></returns>
         [HttpPost]
-        public IActionResult CreatePlaylist(PlaylistCreationDto dto)
+        public ActionResult CreatePlaylist(PlaylistCreationDto dto)
         {
             // Simulate user creation
             Guid userId = Guid.NewGuid();
@@ -33,7 +33,7 @@ namespace PlaylistAPI.Controllers
             Users.Add(userId);
 
             // Create new playlist with the desired properties
-            var playlist = new Playlist(dto.Name, userId)
+            var playlist = new Playlist(dto.Name, dto.Id, userId)
             {
                 IsCollaborative = dto.IsCollaborative
             };
@@ -50,7 +50,7 @@ namespace PlaylistAPI.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        public IActionResult GetPlaylists()
+        public ActionResult GetPlaylists()
         {
             return Ok(Playlists);
         }
@@ -62,7 +62,7 @@ namespace PlaylistAPI.Controllers
         /// <param name="playlist"></param>
         /// <returns></returns>
         [HttpPut("{id}/add")]
-        public IActionResult AddSongToPlaylist(Guid id, [FromBody] SongCreationDto songDto)
+        public ActionResult AddSongToPlaylist(Guid id, [FromBody] SongCreationDto songDto)
         {
             // Find the playlist
             var playlist = Playlists.FirstOrDefault(p => p.Id == id);
@@ -91,7 +91,7 @@ namespace PlaylistAPI.Controllers
         /// <param name="userId"></param>
         /// <returns></returns>
         [HttpPut("{id}/invite")]
-        public IActionResult InviteCollaborator(Guid id, Guid userId)
+        public ActionResult InviteCollaborator(Guid id, Guid userId)
         {
             // Find the playlist
             var playlist = Playlists.FirstOrDefault(p => p.Id == id);
@@ -120,7 +120,7 @@ namespace PlaylistAPI.Controllers
         /// <param name="songId"></param>
         /// <returns></returns>
         [HttpPost("{id}/vote")]
-        public IActionResult VoteSongInPlaylist(Guid id, Guid songId)
+        public ActionResult VoteSongInPlaylist(Guid id, Guid songId)
         {
             // Find the playlist
             var playlist = Playlists.FirstOrDefault(p => p.Id == id);
@@ -148,7 +148,7 @@ namespace PlaylistAPI.Controllers
         /// <param name="id"></param>
         /// <returns></returns>
         [HttpGet("{id}/rankings")]
-        public IActionResult GetSongRankings(Guid id)
+        public ActionResult GetSongRankings(Guid id)
         {
             // Find the playlist
             var playlist = Playlists.FirstOrDefault(p => p.Id == id);
