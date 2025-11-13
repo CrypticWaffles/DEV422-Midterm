@@ -15,8 +15,6 @@ namespace PlaylistAPI.Controllers
         private static readonly List<Playlist> Playlists = new List<Playlist>();
         // Store songs in-memory for simplicity
         private static readonly List<Song> Songs = new List<Song>();
-        // Store users in-memory for simplicity
-        private static readonly List<Guid> Users = new List<Guid>();
 
         /// <summary>
         /// Create a new playlist
@@ -26,14 +24,13 @@ namespace PlaylistAPI.Controllers
         [HttpPost]
         public ActionResult CreatePlaylist(PlaylistCreationDto dto)
         {
-            // Simulate user creation
-            Guid userId = Guid.NewGuid();
-
-            // Add user to in-memory list
-            Users.Add(userId);
+            if (UserController.Users.All(u => u.Id != dto.CreatedByUserId))
+            {
+                return NotFound("User not found");
+            };
 
             // Create new playlist with the desired properties
-            var playlist = new Playlist(dto.Name, dto.Id, userId)
+            var playlist = new Playlist(dto.Name, dto.Id, dto.CreatedByUserId)
             {
                 IsCollaborative = dto.IsCollaborative
             };
@@ -73,7 +70,7 @@ namespace PlaylistAPI.Controllers
             }
 
             // Create new song and add to the playlist
-            var newSong = new Song(songDto.Title, songDto.Artist, songDto.Genre, songDto.Duration);
+            var newSong = new Song(songDto.Id, songDto.Title, songDto.Artist, songDto.Genre, songDto.Duration);
             // Also add to global song list
             Songs.Add(newSong);
 
@@ -91,24 +88,29 @@ namespace PlaylistAPI.Controllers
         /// <param name="userId"></param>
         /// <returns></returns>
         [HttpPut("{id}/invite")]
-        public ActionResult InviteCollaborator(Guid id, Guid userId)
+        public ActionResult InviteCollaborator(Guid id, [FromQuery] Guid userId)
         {
             // Find the playlist
-            var playlist = Playlists.FirstOrDefault(p => p.Id == id);
+            var playlist = Playlists.FirstOrDefault(p => p.Id == id); 
+            
             // If not found, return 404
             if (playlist == null)
             {
-                return NotFound("Playlist not found");
+                 return NotFound("Playlist not found"); 
+            
             }
             // Check if user exists
-            if (!Users.Contains(userId))
+            if (UserController.Users.All(u => u.Id != userId))
             {
-                return NotFound("User not found");
+                 return NotFound("User not found"); 
             }
+
             // Add collaborator
-            playlist.CollaboratorUserIds.Add(userId);
+            playlist.CollaboratorUserIds.Add(userId); 
+
             // Set playlist to collaborative
-            playlist.IsCollaborative = true;
+            playlist.IsCollaborative = true; 
+            
             // Return success response
             return Ok(new { message = $"User {userId} invited to collaborate on {playlist.Name}", playlist = playlist });
         }
@@ -120,7 +122,7 @@ namespace PlaylistAPI.Controllers
         /// <param name="songId"></param>
         /// <returns></returns>
         [HttpPost("{id}/vote")]
-        public ActionResult VoteSongInPlaylist(Guid id, Guid songId)
+        public ActionResult VoteSongInPlaylist(Guid id, [FromQuery] Guid songId)
         {
             // Find the playlist
             var playlist = Playlists.FirstOrDefault(p => p.Id == id);
@@ -139,7 +141,12 @@ namespace PlaylistAPI.Controllers
             // Upvote the song
             song.Upvote();
             // Return success response
-            return Ok(new { message = $"Song {song.Title} upvoted in {playlist.Name}", song = song });
+            return Ok(new
+            {
+                message = $"Song {song.Title} upvoted in {playlist.Name}",
+                song = song,
+                playlist = playlist
+            });
         }
 
         /// <summary>
@@ -152,13 +159,16 @@ namespace PlaylistAPI.Controllers
         {
             // Find the playlist
             var playlist = Playlists.FirstOrDefault(p => p.Id == id);
+
             // If not found, return 404
             if (playlist == null)
             {
                 return NotFound("Playlist not found");
             }
+
             // Rank songs by votes
             var rankedSongs = playlist.Songs.OrderByDescending(s => s.Votes).ToList();
+
             // Return ranked songs
             return Ok(rankedSongs);
         }

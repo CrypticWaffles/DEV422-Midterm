@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92B430B4-6039-40E5-9C70-189DACD70F26}|PlaylistAPI\\PlaylistAPI.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\playlistapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92B430B4-6039-40E5-9C70-189DACD70F26}|PlaylistAPI\\PlaylistAPI.csproj|solutionrelative:playlistapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B430B4-6039-40E5-9C70-189DACD70F26}|PlaylistAPI\\PlaylistAPI.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\playlistapi\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92B430B4-6039-40E5-9C70-189DACD70F26}|PlaylistAPI\\PlaylistAPI.csproj|solutionrelative:playlistapi\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F01210-E5D8-4AC7-9C9C-3F2DD8BAFE97}|PlaylistClient\\PlaylistClient.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\playlistclient\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F01210-E5D8-4AC7-9C9C-3F2DD8BAFE97}|PlaylistClient\\PlaylistClient.csproj|solutionrelative:playlistclient\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}|VibeHive\\VibeHive.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}|VibeHive\\VibeHive.csproj|solutionrelative:vibehive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8F01210-E5D8-4AC7-9C9C-3F2DD8BAFE97}|PlaylistClient\\PlaylistClient.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\playlistclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A8F01210-E5D8-4AC7-9C9C-3F2DD8BAFE97}|PlaylistClient\\PlaylistClient.csproj|solutionrelative:playlistclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8F01210-E5D8-4AC7-9C9C-3F2DD8BAFE97}|PlaylistClient\\PlaylistClient.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\playlistclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F01210-E5D8-4AC7-9C9C-3F2DD8BAFE97}|PlaylistClient\\PlaylistClient.csproj|solutionrelative:playlistclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B430B4-6039-40E5-9C70-189DACD70F26}|PlaylistAPI\\PlaylistAPI.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\playlistapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B430B4-6039-40E5-9C70-189DACD70F26}|PlaylistAPI\\PlaylistAPI.csproj|solutionrelative:playlistapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B430B4-6039-40E5-9C70-189DACD70F26}|PlaylistAPI\\PlaylistAPI.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\playlistapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B430B4-6039-40E5-9C70-189DACD70F26}|PlaylistAPI\\PlaylistAPI.csproj|solutionrelative:playlistapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}|VibeHive\\VibeHive.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}|VibeHive\\VibeHive.csproj|solutionrelative:vibehive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,12 +29,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 161,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 166,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistClient\\Form1.cs",
               "RelativeDocumentMoniker": "PlaylistClient\\Form1.cs",
@@ -50,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlaylistController.cs",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistAPI\\Controllers\\PlaylistController.cs",
               "RelativeDocumentMoniker": "PlaylistAPI\\Controllers\\PlaylistController.cs",
               "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistAPI\\Controllers\\PlaylistController.cs",
               "RelativeToolTip": "PlaylistAPI\\Controllers\\PlaylistController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowIsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T23:10:55.428Z",
               "EditorCaption": ""
@@ -64,6 +60,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PlaylistAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PlaylistAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:52:53.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive\\Program.cs",
               "RelativeDocumentMoniker": "VibeHive\\Program.cs",
@@ -77,44 +86,18 @@
           ]
         },
         {
-          "DockedHeight": 161,
+          "DockedHeight": 156,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Playlist.cs",
-              "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistAPI\\Playlist.cs",
-              "RelativeDocumentMoniker": "PlaylistAPI\\Playlist.cs",
-              "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistAPI\\Playlist.cs",
-              "RelativeToolTip": "PlaylistAPI\\Playlist.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswBgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T01:02:09.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Playlist.cs",
-              "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistClient\\Playlist.cs",
-              "RelativeDocumentMoniker": "PlaylistClient\\Playlist.cs",
-              "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistClient\\Playlist.cs",
-              "RelativeToolTip": "PlaylistClient\\Playlist.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T00:49:07.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistClient\\Form1.cs",
               "RelativeDocumentMoniker": "PlaylistClient\\Form1.cs",
               "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\PlaylistClient\\Form1.cs",
               "RelativeToolTip": "PlaylistClient\\Form1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8BAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T22:58:39.123Z",
               "EditorCaption": ""

@@ -30,6 +30,7 @@
         public class PlaylistCreationDto
         {
             public Guid Id { get; set; }
+            public Guid CreatedByUserId { get; set; }
             public string Name { get; set; }
             public bool IsCollaborative { get; set; } = false; // Optional
         }

@@ -22,9 +22,9 @@ namespace PlaylistClient
         /// <param name="artist"></param>
         /// <param name="genre"></param>
         /// <param name="duration"></param>
-        public Song(string title, string artist, string genre, TimeSpan duration)
+        public Song(Guid id, string title, string artist, string genre, TimeSpan duration)
         {
-            Id = Guid.NewGuid();
+            Id = id;
             Title = title;
             Artist = artist;
             Genre = genre;
@@ -45,12 +45,13 @@ namespace PlaylistClient
         /// <returns></returns>
         public override string ToString()
         {
-            return $"{Title} by {Artist} - {Genre} [{Duration}] (Votes: {Votes})";
+            return $"{Title} by {Artist} - {Genre} [{Duration}]";
         }
 
         // Define a DTO for input data
         public class SongCreationDto
         {
+            public Guid Id { get; set; }
             public string Title { get; set; }
             public string Artist { get; set; }
             public string Genre { get; set; }
