@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.eventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.eventsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.eventsapi\\services\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\services\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.eventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "VibeHive.EventsApi\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "VibeHive.EventsApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-16T03:34:34.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\User.cs",
               "RelativeDocumentMoniker": "VibeHive.EventsApi\\User.cs",
@@ -76,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Program.cs",
               "RelativeDocumentMoniker": "VibeHive.EventsApi\\Program.cs",
@@ -89,39 +85,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventStore.cs",
-              "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Services\\EventStore.cs",
-              "RelativeDocumentMoniker": "VibeHive.EventsApi\\Services\\EventStore.cs",
-              "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Services\\EventStore.cs",
-              "RelativeToolTip": "VibeHive.EventsApi\\Services\\EventStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T02:49:49.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EventsController.cs",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "VibeHive.EventsApi\\Controllers\\EventsController.cs",
               "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Controllers\\EventsController.cs",
               "RelativeToolTip": "VibeHive.EventsApi\\Controllers\\EventsController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T02:46:11.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "VibeHive.EventsApi\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "VibeHive.EventsApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T02:09:41.885Z",
               "EditorCaption": ""

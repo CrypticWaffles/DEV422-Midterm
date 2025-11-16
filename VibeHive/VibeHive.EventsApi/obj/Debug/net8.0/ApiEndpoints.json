@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "VibeHive.EventsApi.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "VibeHive.EventsApi.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "VibeHive.EventsApi.Controllers.EventsController",
     "Method": "GetAllEvents",
     "RelativePath": "api/Events",

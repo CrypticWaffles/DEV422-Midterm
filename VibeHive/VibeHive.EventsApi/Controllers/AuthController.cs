@@ -1,6 +1,9 @@
-﻿using System.Security.Cryptography;
+﻿using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Security.Cryptography;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 
 namespace VibeHive.EventsApi.Controllers
 {
@@ -60,7 +63,53 @@ namespace VibeHive.EventsApi.Controllers
 
         /*
          * Login current user:
+         * Creates a token that the user will use to unlock endpoint access when returned.
          */
+        [HttpPost]
+        public IActionResult Login(UserLogin userLogin)
+        {
+            // 1.) Locate the user in the database / local-storage:
+            var user = _users.FirstOrDefault(u => u.Name == userLogin.Name);
+
+            // 2.) Check if the user exists in the db and their password matches:
+            if (user == null || !VerifyPassword(userLogin.Password, user.Password))
+            {
+                // No user found / passwords do not match:
+                return Unauthorized("No existing user found / invalid password");
+            }
+
+            // 3.) Generate a new JWT token handler to make tokens in:
+            var tokenHandler = new JwtSecurityTokenHandler();
+
+            // 4.) Convert our _secretKey, initialized from the app settings, to bytes:
+            var key = Encoding.ASCII.GetBytes(_secretKey);
+
+            // 5.) Configure new token generated to store user information:
+            var tokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = new System.Security.Claims.ClaimsIdentity(new[]
+                {
+                    // Add standard claims:
+                    new Claim(ClaimTypes.Name, user.Name),
+                    new Claim(ClaimTypes.Email, user.Email),
+                    new Claim(ClaimTypes.Role, user.Role),
+                }),
+                // Set expiration time for 1 hour from generation:
+                Expires = DateTime.UtcNow.AddHours(1),
+                // Set signing credentials:
+                SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key),
+                SecurityAlgorithms.HmacSha256Signature)
+            };
+
+            // 6.) Create configured token:
+            var token = tokenHandler.CreateToken(tokenDescriptor);
+
+            // 7.) Convert token to string:
+            var tokenString = tokenHandler.WriteToken(token);
+
+            // 8.) Return token to the user: ( Will need to be changed to handle session management? ) 
+            return Ok(new { message = tokenString });
+        }
 
         // ----------- Helper functions -------------
 
@@ -77,6 +126,18 @@ namespace VibeHive.EventsApi.Controllers
                 // Convert hashed bytes to a base64 string:
                 return Convert.ToBase64String(hashedBytes);
             }
+        }
+
+        /*
+         * Verify user password:
+         */
+        private bool VerifyPassword(string password, string hashedPassword)
+        {
+            // Hash the user-inputed password:
+            var hashedInput = HashUserPassword(password);
+
+            // Compare now-hashed user input to hashed password stored in user account:
+            return hashedInput == hashedPassword;
         }
 
     }
