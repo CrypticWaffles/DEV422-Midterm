@@ -33,6 +33,22 @@
   },
   {
     "ContainingType": "VibeHive.EventsApi.Controllers.EventsController",
+    "Method": "AddEvent",
+    "RelativePath": "api/Events",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "event",
+        "Type": "VibeHive.EventsApi.Models.Event",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VibeHive.EventsApi.Controllers.EventsController",
     "Method": "GetAllEvents",
     "RelativePath": "api/Events",
     "HttpMethod": "GET",

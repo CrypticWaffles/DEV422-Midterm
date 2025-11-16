@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VibeHive.EventsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09bf20a5fd9766227215e1c9a4796d0fa6ec4542")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dd8f6403a76af8abb13cb74d83f3251e75af8b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("VibeHive.EventsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VibeHive.EventsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
