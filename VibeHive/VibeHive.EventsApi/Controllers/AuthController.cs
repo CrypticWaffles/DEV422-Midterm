@@ -65,7 +65,7 @@ namespace VibeHive.EventsApi.Controllers
          * Login current user:
          * Creates a token that the user will use to unlock endpoint access when returned.
          */
-        [HttpPost]
+        [HttpPost("login")]
         public IActionResult Login(UserLogin userLogin)
         {
             // 1.) Locate the user in the database / local-storage:
