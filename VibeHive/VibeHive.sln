@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibeHive", "VibeHive\VibeHive.csproj", "{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRentalAPI", "MusicRentalAPI\MusicRentalAPI.csproj", "{803680AD-FAD6-4061-ADB4-C0D0CAB00227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRentalClient", "MusicRentalWinForm\MusicRentalClient.csproj", "{6E146352-59A1-458E-8D50-2C7A745D8FF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803680AD-FAD6-4061-ADB4-C0D0CAB00227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803680AD-FAD6-4061-ADB4-C0D0CAB00227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803680AD-FAD6-4061-ADB4-C0D0CAB00227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803680AD-FAD6-4061-ADB4-C0D0CAB00227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E146352-59A1-458E-8D50-2C7A745D8FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E146352-59A1-458E-8D50-2C7A745D8FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E146352-59A1-458E-8D50-2C7A745D8FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E146352-59A1-458E-8D50-2C7A745D8FF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

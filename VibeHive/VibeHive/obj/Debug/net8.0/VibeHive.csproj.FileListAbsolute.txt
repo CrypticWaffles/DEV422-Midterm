@@ -1,0 +1,15 @@
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\bin\Debug\net8.0\VibeHive.exe
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\bin\Debug\net8.0\VibeHive.deps.json
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\bin\Debug\net8.0\VibeHive.runtimeconfig.json
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\bin\Debug\net8.0\VibeHive.dll
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\bin\Debug\net8.0\VibeHive.pdb
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\VibeHive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\VibeHive.AssemblyInfoInputs.cache
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\VibeHive.AssemblyInfo.cs
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\VibeHive.csproj.CoreCompileInputs.cache
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\VibeHive.sourcelink.json
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\VibeHive.dll
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\refint\VibeHive.dll
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\VibeHive.pdb
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\VibeHive.genruntimeconfig.cache
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\VibeHive\obj\Debug\net8.0\ref\VibeHive.dll

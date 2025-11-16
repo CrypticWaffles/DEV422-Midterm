@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VibeHive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f6959e5d41e1abbd5a265259d8d955754a72fa7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f5edde967269274444e59660df867a14cd2ec44")]
 [assembly: System.Reflection.AssemblyProductAttribute("VibeHive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VibeHive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

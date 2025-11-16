@@ -1,0 +1,14 @@
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRentalClient.csproj.AssemblyReference.cache
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRentalClient.MusicRentalForm.resources
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRentalWinForm.Properties.Resources.resources
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRentalClient.csproj.GenerateResource.cache
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRentalClient.csproj.CoreCompileInputs.cache
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\bin\Debug\MusicRentalWinForm.exe.config
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\bin\Debug\MusicRentalWinForm.exe
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\bin\Debug\MusicRentalWinForm.pdb
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRen.2DCFFFAD.Up2Date
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRentalWinForm.exe
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRentalWinForm.pdb
+C:\Users\kelle\iCloudDrive\Desktop\projects\DEV422-AppArchitecture\Midterm\DEV422-Midterm\VibeHive\MusicRentalWinForm\obj\Debug\MusicRentalWinForm.exe.config
