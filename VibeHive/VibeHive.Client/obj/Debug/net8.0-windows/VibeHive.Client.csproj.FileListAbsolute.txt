@@ -15,11 +15,6 @@ C:\Users\zoeli\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\ne
 C:\Users\zoeli\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.genruntimeconfig.cache
 C:\Users\zoeli\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\ref\VibeHive.Client.dll
 C:\Users\zoeli\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.MainForm.resources
-C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.exe
-C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.deps.json
-C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.runtimeconfig.json
-C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.dll
-C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.pdb
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.MainForm.resources
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.NavigationForm.resources
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.RegisterForm.resources
@@ -29,6 +24,11 @@ C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\o
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.AssemblyInfo.cs
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.csproj.CoreCompileInputs.cache
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.sourcelink.json
+C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.exe
+C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.deps.json
+C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.runtimeconfig.json
+C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.dll
+C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.pdb
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.dll
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\refint\VibeHive.Client.dll
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.pdb

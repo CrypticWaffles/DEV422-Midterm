@@ -47,7 +47,7 @@ namespace VibeHive.Client
          * Parse register form for user name, email, password, and role
          * Add a new user to the system with this information
          */
-        private void RegisterBtn_Click(object sender, EventArgs e)
+        private async void RegisterBtn_Click(object sender, EventArgs e)
         {
             // 1.) Check for valid inputs:
             if (string.IsNullOrEmpty(RegNameInput.Text)) 
@@ -71,13 +71,51 @@ namespace VibeHive.Client
                 return;
             }
 
-            // 2.) Create a new user from the registration form data:
-            //try
-            //{
+            // 2.) Register a new user from the registration form data:
+            try
+            {
+                // Get text inputs / create user:
+                var newUser = new
+                {
+                    Name = RegNameInput.Text,
+                    Email = RegEmailInput.Text,
+                    Password = RegPasswordInput.Text,
+                    Role = RegRoleInput.Text
+                };
 
-            //}
+                // Serialize user:
+                var jsonUser = JsonSerializer.Serialize(newUser);
+                // Encode serialized user:
+                var content = new StringContent(jsonUser, Encoding.UTF8, "application/json");
+                // Send user data to API:
+                var response = await _http.PostAsync("api/auth/register", content);
+
+                if ( !response.IsSuccessStatusCode )
+                {
+                    // Failed registration:
+                    var failure = await response.Content.ReadAsStringAsync();
+                    MessageBox.Show(
+                        $"User registration failed:{response.StatusCode}\n{failure}",
+                        "Error",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error);
+                }
+                // 3.) If user was registered successfully: Notify the user in the GUI:
 
 
+            } // 4.) Catch registration failures:
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Failed to register user:\n{ex.Message}",
+                    "Error",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error);
+            }
         }
+
+
+
+
+
     }
 }
