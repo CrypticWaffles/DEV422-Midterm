@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.client\\vibehive.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\vibehive.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.client\\navigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\navigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\vibehive.client\\navigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\navigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.client\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.eventsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.eventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.client\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.eventsapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB9EA1AE-EB67-4712-A36F-3A1771E05600}|VibeHive.EventsApi\\VibeHive.EventsApi.csproj|solutionrelative:vibehive.eventsapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\miles\\documents\\school\\programing\\dev422-midterm\\vibehive\\vibehive.client\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,15 +59,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VibeHive.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\VibeHive.Client.csproj",
+              "RelativeDocumentMoniker": "VibeHive.Client\\VibeHive.Client.csproj",
+              "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\VibeHive.Client.csproj",
+              "RelativeToolTip": "VibeHive.Client\\VibeHive.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T07:07:12.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client\\NavigationForm.cs",
+              "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.cs",
+              "RelativeToolTip": "VibeHive.Client\\NavigationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:59:19.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavigationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client\\NavigationForm.cs",
+              "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.cs [Design]",
+              "RelativeToolTip": "VibeHive.Client\\NavigationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:58:43.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.cs [Design]",
+              "RelativeToolTip": "VibeHive.Client\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:58:31.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "VibeHive.EventsApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\appsettings.json",
+              "RelativeToolTip": "VibeHive.EventsApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T06:54:37.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Program.cs",
               "RelativeDocumentMoniker": "VibeHive.EventsApi\\Program.cs",
               "ToolTip": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Program.cs",
               "RelativeToolTip": "VibeHive.EventsApi\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAiwEkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:50:17.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T06:50:17.235Z"
             },
             {
               "$type": "Document",
@@ -59,12 +139,11 @@
               "RelativeToolTip": "VibeHive.Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:10:34.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T06:10:34.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "TicketsController.cs",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Controllers\\TicketsController.cs",
               "RelativeDocumentMoniker": "VibeHive.EventsApi\\Controllers\\TicketsController.cs",
@@ -72,12 +151,11 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Controllers\\TicketsController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:09:51.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T06:09:51.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\AuthResponse.cs",
               "RelativeDocumentMoniker": "VibeHive.Client\\AuthResponse.cs",
@@ -85,12 +163,11 @@
               "RelativeToolTip": "VibeHive.Client\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T05:26:13.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T05:26:13.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.EventsApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "VibeHive.EventsApi\\Controllers\\AuthController.cs",
@@ -98,12 +175,11 @@
               "RelativeToolTip": "VibeHive.EventsApi\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T05:16:23.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T05:16:23.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\Miles\\Documents\\School\\Programing\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\RegisterForm.cs",
               "RelativeDocumentMoniker": "VibeHive.Client\\RegisterForm.cs",

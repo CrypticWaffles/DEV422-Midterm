@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Net.WebRequestMethods;
 
+
 namespace VibeHive.Client
 {
     public partial class NavigationForm : Form
