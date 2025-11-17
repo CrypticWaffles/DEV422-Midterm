@@ -108,8 +108,8 @@ namespace VibeHive.EventsApi.Controllers
             var tokenString = tokenHandler.WriteToken(token);
 
             // 8.) Return token to the user: ( Will need to be changed to handle session management? ) 
-            //return Ok(new { message = tokenString });
-            return new JsonResult(tokenString);
+            return Ok(new { token = tokenString });
+            //return new JsonResult(tokenString);
         }
 
         // ----------- Helper functions -------------

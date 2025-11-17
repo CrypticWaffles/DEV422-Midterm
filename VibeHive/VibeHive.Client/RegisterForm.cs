@@ -166,9 +166,14 @@ namespace VibeHive.Client
                         MessageBoxIcon.Error);
                     return;
                 }
-                // 3.) If user was logged in successfully: Notify the user in the GUI:
-                Program.userToken = await response.Content.ReadAsStringAsync(); // <------ Store this properly.
+                // 2.5) Store returned user token into session storage:
+                string tokenResponse = await response.Content.ReadAsStringAsync();
 
+                AuthResponse tokenModel = JsonSerializer.Deserialize<AuthResponse>(tokenResponse);
+
+                Program.userToken = tokenModel.Token;
+
+                // 3.) If user was logged in successfully: Notify the user in the GUI:              
                 MessageBox.Show($"User Logged in successfully:\n" +
                     $"User: {loginUser.Name}\n" +
                     $"Token: { Program.userToken }", "Success");
