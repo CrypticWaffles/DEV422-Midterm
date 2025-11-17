@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\navigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\navigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\navigationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\navigationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\navigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\navigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.Designer.cs",
+              "RelativeToolTip": "VibeHive.Client\\MainForm.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:22:09.314Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -42,33 +63,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dtos.cs",
-              "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\Dtos.cs",
-              "RelativeDocumentMoniker": "VibeHive.Client\\Dtos.cs",
-              "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\Dtos.cs",
-              "RelativeToolTip": "VibeHive.Client\\Dtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T06:02:32.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.cs",
               "RelativeDocumentMoniker": "VibeHive.Client\\MainForm.cs",
               "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.cs",
               "RelativeToolTip": "VibeHive.Client\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T06:50:44.519Z",
+              "WhenOpened": "2025-11-17T07:13:26.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.cs",
               "RelativeDocumentMoniker": "VibeHive.Client\\MainForm.cs",
@@ -80,15 +88,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "VibeHive.Client\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.Designer.cs",
-              "RelativeToolTip": "VibeHive.Client\\MainForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "NavigationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client\\NavigationForm.cs",
+              "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.cs",
+              "RelativeToolTip": "VibeHive.Client\\NavigationForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T06:50:29.022Z",
+              "WhenOpened": "2025-11-17T07:04:08.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavigationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client\\NavigationForm.cs",
+              "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.cs [Design]",
+              "RelativeToolTip": "VibeHive.Client\\NavigationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:02:06.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.Designer.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client\\NavigationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\NavigationForm.Designer.cs",
+              "RelativeToolTip": "VibeHive.Client\\NavigationForm.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:16:19.812Z",
               "EditorCaption": ""
             }
           ]
