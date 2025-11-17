@@ -40,7 +40,13 @@
             RegisterBtn = new Button();
             groupBox2 = new GroupBox();
             NavReturnBtn = new Button();
+            LoginNameInput = new TextBox();
+            LoginPassInput = new TextBox();
+            LoginBtn = new Button();
+            label5 = new Label();
+            label6 = new Label();
             groupBox1.SuspendLayout();
+            groupBox2.SuspendLayout();
             SuspendLayout();
             // 
             // groupBox1
@@ -141,6 +147,11 @@
             // groupBox2
             // 
             groupBox2.BackColor = SystemColors.ControlLight;
+            groupBox2.Controls.Add(label6);
+            groupBox2.Controls.Add(label5);
+            groupBox2.Controls.Add(LoginBtn);
+            groupBox2.Controls.Add(LoginPassInput);
+            groupBox2.Controls.Add(LoginNameInput);
             groupBox2.Location = new Point(941, 156);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(526, 434);
@@ -158,6 +169,48 @@
             NavReturnBtn.UseVisualStyleBackColor = true;
             NavReturnBtn.Click += NavReturnBtn_Click;
             // 
+            // LoginNameInput
+            // 
+            LoginNameInput.Location = new Point(215, 67);
+            LoginNameInput.Name = "LoginNameInput";
+            LoginNameInput.Size = new Size(255, 31);
+            LoginNameInput.TabIndex = 0;
+            // 
+            // LoginPassInput
+            // 
+            LoginPassInput.Location = new Point(215, 129);
+            LoginPassInput.Name = "LoginPassInput";
+            LoginPassInput.Size = new Size(255, 31);
+            LoginPassInput.TabIndex = 1;
+            // 
+            // LoginBtn
+            // 
+            LoginBtn.Location = new Point(139, 366);
+            LoginBtn.Name = "LoginBtn";
+            LoginBtn.Size = new Size(250, 53);
+            LoginBtn.TabIndex = 10;
+            LoginBtn.Text = "Register";
+            LoginBtn.UseVisualStyleBackColor = true;
+            LoginBtn.Click += LoginBtn_Click;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(49, 70);
+            label5.Name = "label5";
+            label5.Size = new Size(91, 25);
+            label5.TabIndex = 11;
+            label5.Text = "Username";
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Location = new Point(49, 132);
+            label6.Name = "label6";
+            label6.Size = new Size(87, 25);
+            label6.TabIndex = 12;
+            label6.Text = "Password";
+            // 
             // RegisterForm
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -170,6 +223,8 @@
             Text = "RegisterForm";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -187,5 +242,10 @@
         private ComboBox RegRoleInput;
         private Label label4;
         private Button NavReturnBtn;
+        private Label label6;
+        private Label label5;
+        private Button LoginBtn;
+        private TextBox LoginPassInput;
+        private TextBox LoginNameInput;
     }
 }
