@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "userLogin",
-        "Type": "VibeHive.EventsApi.UserLogin",
+        "Type": "VibeHive.EventsApi.Models.UserLogin",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "VibeHive.EventsApi.User",
+        "Type": "VibeHive.EventsApi.Models.User",
         "IsRequired": true
       }
     ],

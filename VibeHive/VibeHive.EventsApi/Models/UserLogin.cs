@@ -1,4 +1,4 @@
-﻿namespace VibeHive.EventsApi
+﻿namespace VibeHive.EventsApi.Models
 {
     /*
     * Defines basic user login for API:

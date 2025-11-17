@@ -4,6 +4,7 @@ using System.Security.Cryptography;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using VibeHive.EventsApi.Models;
 
 namespace VibeHive.EventsApi.Controllers
 {
