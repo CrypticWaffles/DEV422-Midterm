@@ -99,9 +99,14 @@ namespace VibeHive.Client
                         "Error",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Error);
+                    return;
                 }
                 // 3.) If user was registered successfully: Notify the user in the GUI:
-
+                MessageBox.Show($"User Registered successfully:\n" +
+                    $"User: {newUser.Name}\n" +
+                    $"Email: {newUser.Email}\n" +
+                    $"Role: {newUser.Role}", "Success");
+                return;
 
             } // 4.) Catch registration failures:
             catch (Exception ex)
