@@ -20,6 +20,7 @@ C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\b
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.runtimeconfig.json
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.dll
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.pdb
+C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.EventForm.resources
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.MainForm.resources
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.NavigationForm.resources
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.RegisterForm.resources

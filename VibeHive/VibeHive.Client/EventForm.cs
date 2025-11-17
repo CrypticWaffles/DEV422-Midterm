@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -78,6 +79,11 @@ namespace VibeHive.Client
                 var jsonEvent = JsonSerializer.Serialize(newEvent);
                 // Encode serialized event:
                 var content = new StringContent(jsonEvent, Encoding.UTF8, "application/json");
+
+                // 2.5) BEFORE you send a http request, add the token for authorization:
+                // Define new client header to add bearer token in:
+                _http.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Program.userToken);
+
                 // Send event data to API:
                 var response = await _http.PostAsync("api/events", content);
 
