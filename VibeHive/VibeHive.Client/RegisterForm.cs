@@ -167,8 +167,11 @@ namespace VibeHive.Client
                     return;
                 }
                 // 3.) If user was logged in successfully: Notify the user in the GUI:
-                MessageBox.Show($"User Registered successfully:\n" +
-                    $"User: {loginUser.Name}\n", "Success");
+                Program.userToken = await response.Content.ReadAsStringAsync(); // <------ Store this properly.
+
+                MessageBox.Show($"User Logged in successfully:\n" +
+                    $"User: {loginUser.Name}\n" +
+                    $"Token: { Program.userToken }", "Success");
                 return;
 
             } // 4.) Catch registration failures:

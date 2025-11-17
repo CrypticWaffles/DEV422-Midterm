@@ -60,5 +60,18 @@ namespace VibeHive.Client
             // Hide the Navigation form:
             this.Hide();
         }
+
+        /*
+         * Open Event Adding form ( EventForm.cs ):
+         * Opends the event-adding form.
+         */
+        private void Mod3AddEventBtn_Click(object sender, EventArgs e)
+        {
+            EventForm eventForm = new EventForm();
+            eventForm.Show();
+
+            // Hide navigation form:
+            this.Hide();
+        }
     }
 }

@@ -79,6 +79,7 @@
             Mod3AddEventBtn.TabIndex = 2;
             Mod3AddEventBtn.Text = "Add Events";
             Mod3AddEventBtn.UseVisualStyleBackColor = true;
+            Mod3AddEventBtn.Click += Mod3AddEventBtn_Click;
             // 
             // Mod3BookTicketBtn
             // 

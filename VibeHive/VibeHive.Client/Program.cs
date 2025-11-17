@@ -2,6 +2,10 @@ namespace VibeHive.Client
 {
     internal static class Program
     {
+
+        // Session storage: Contain the user JWT token when logged in:
+        public static string userToken = "";
+
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
