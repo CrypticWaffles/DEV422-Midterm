@@ -11,7 +11,7 @@
         "projectName": "VibeHive.Client",
         "projectPath": "C:\\Users\\Jaxon Froderberg\\Source\\Repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\VibeHive.Client.csproj",
         "packagesPath": "C:\\Users\\Jaxon Froderberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\obj\\",
+        "outputPath": "C:\\Users\\Jaxon Froderberg\\Source\\Repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

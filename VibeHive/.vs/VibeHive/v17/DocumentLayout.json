@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|c:\\users\\jaxon froderberg\\source\\repos\\dev422-midterm\\vibehive\\vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62B0ACE-796B-48B9-9620-63E435E62676}|VibeHive.Client\\VibeHive.Client.csproj|solutionrelative:vibehive.client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\Dtos.cs",
+              "RelativeDocumentMoniker": "VibeHive.Client\\Dtos.cs",
+              "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\Dtos.cs",
+              "RelativeToolTip": "VibeHive.Client\\Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:02:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.cs",
               "RelativeDocumentMoniker": "VibeHive.Client\\MainForm.cs",
               "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.cs",
               "RelativeToolTip": "VibeHive.Client\\MainForm.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAowIYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T06:50:44.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.cs",
               "RelativeDocumentMoniker": "VibeHive.Client\\MainForm.cs",
@@ -63,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "VibeHive.Client\\MainForm.Designer.cs",
               "ToolTip": "C:\\Users\\Jaxon Froderberg\\source\\repos\\DEV422-Midterm\\VibeHive\\VibeHive.Client\\MainForm.Designer.cs",
               "RelativeToolTip": "VibeHive.Client\\MainForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T06:50:29.022Z",
               "EditorCaption": ""
