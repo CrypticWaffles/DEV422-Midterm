@@ -18,6 +18,7 @@ namespace VibeHive.Client
 
             //Application.Run(new MainForm());
             Application.Run(new NavigationForm());
+            Application.Run(new MainForm());
         }
     }
 }

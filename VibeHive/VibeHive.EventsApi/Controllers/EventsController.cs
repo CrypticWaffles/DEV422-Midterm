@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization; // Needed for JWT authorization
 using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 using VibeHive.EventsApi.Models;
 

@@ -1,13 +1,21 @@
-#
 # Visual Studio / .NET Core / .NET Framework specific ignores
 #
-/bin/
-/obj/
+**/[Bb]in/
+**/[Oo]bj/
 *.pdb
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
+# Add all generated DLLs and EXEs (crucial for ignoring build output)
+*.dll
+*.exe
+
+# Add other build-related files we saw conflicting:
+*.deps.json
+*.runtimeconfig.json
+*.sourcelink.json
 
 # Visual Studio 2017 and later
 .vs/

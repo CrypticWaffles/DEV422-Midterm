@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibeHive.EventsApi", "VibeH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VibeHive.Client", "VibeHive.Client\VibeHive.Client.csproj", "{F62B0ACE-796B-48B9-9620-63E435E62676}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaylistAPI", "PlaylistAPI\PlaylistAPI.csproj", "{92B430B4-6039-40E5-9C70-189DACD70F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaylistClient", "PlaylistClient\PlaylistClient.csproj", "{A8F01210-E5D8-4AC7-9C9C-3F2DD8BAFE97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,10 @@ Global
 		{F62B0ACE-796B-48B9-9620-63E435E62676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F62B0ACE-796B-48B9-9620-63E435E62676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F62B0ACE-796B-48B9-9620-63E435E62676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B00CC7-A2AD-4382-814A-9A6298F2A92E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

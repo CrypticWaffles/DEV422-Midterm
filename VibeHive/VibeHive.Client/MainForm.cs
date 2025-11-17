@@ -26,6 +26,7 @@ namespace VibeHive.Client
 
         // LOAD EVENTS 
 
+      
         private async void btnLoadEvents_Click(object sender, EventArgs e)
         {
             try
@@ -46,6 +47,9 @@ namespace VibeHive.Client
 
         // BOOK TICKET 
 
+      
+        // BOOK TICKET 
+     
         private async void btnBookTicket_Click(object sender, EventArgs e)
 
         {
@@ -95,6 +99,9 @@ namespace VibeHive.Client
 
         // LOAD MY TICKETS 
 
+        
+        // LOAD MY TICKETS 
+    
         private async void btnLoadTickets_Click(object sender, EventArgs e)
         {
             if (!int.TryParse(txtMyUserId.Text, out var userId))
@@ -129,6 +136,7 @@ namespace VibeHive.Client
             if (dgvEvents.CurrentRow == null)
                 return;
 
+           
             if (dgvEvents.CurrentRow.DataBoundItem is EventDto ev)
             {
                 txtEventId.Text = ev.Id.ToString();
@@ -154,7 +162,5 @@ namespace VibeHive.Client
         {
 
         }
-
-        
     }
 }
