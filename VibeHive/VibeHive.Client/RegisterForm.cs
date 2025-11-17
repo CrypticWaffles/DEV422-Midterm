@@ -1,0 +1,83 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace VibeHive.Client
+{
+    public partial class RegisterForm : Form
+    {
+        private readonly HttpClient _http;
+
+        private readonly JsonSerializerOptions _jsonOptions =
+            new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
+
+        public RegisterForm()
+        {
+            InitializeComponent();
+
+            // URL/port Events API
+            _http = new HttpClient
+            {
+                BaseAddress = new Uri("https://localhost:7113")
+            };
+        }
+
+        /*
+         * Return to the main navigation form
+         */
+        private void NavReturnBtn_Click(object sender, EventArgs e)
+        {
+            // Switch to navigation form:
+            NavigationForm navForm = new NavigationForm();
+            navForm.Show();
+
+            // Hide the Navigation form:
+            this.Hide();
+        }
+
+        /*
+         * Register new user:
+         * Parse register form for user name, email, password, and role
+         * Add a new user to the system with this information
+         */
+        private void RegisterBtn_Click(object sender, EventArgs e)
+        {
+            // 1.) Check for valid inputs:
+            if (string.IsNullOrEmpty(RegNameInput.Text)) 
+            {
+                MessageBox.Show("Please enter a valid Username (string).");
+                return;
+            }
+            if (string.IsNullOrEmpty(RegEmailInput.Text))
+            {
+                MessageBox.Show("Please enter a valid Email (string).");
+                return;
+            }
+            if (string.IsNullOrEmpty(RegPasswordInput.Text))
+            {
+                MessageBox.Show("Please enter a valid Password (string).");
+                return;
+            }
+            if (string.IsNullOrEmpty(RegRoleInput.Text))
+            {
+                MessageBox.Show("Please select a Role (string).");
+                return;
+            }
+
+            // 2.) Create a new user from the registration form data:
+            //try
+            //{
+
+            //}
+
+
+        }
+    }
+}

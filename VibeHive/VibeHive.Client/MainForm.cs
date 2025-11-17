@@ -25,7 +25,7 @@ namespace VibeHive.Client
 
 
         // LOAD EVENTS 
-      
+
         private async void btnLoadEvents_Click(object sender, EventArgs e)
         {
             try
@@ -43,9 +43,9 @@ namespace VibeHive.Client
                     "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-      
+
         // BOOK TICKET 
-     
+
         private async void btnBookTicket_Click(object sender, EventArgs e)
 
         {
@@ -92,9 +92,9 @@ namespace VibeHive.Client
             }
 
         }
-        
+
         // LOAD MY TICKETS 
-    
+
         private async void btnLoadTickets_Click(object sender, EventArgs e)
         {
             if (!int.TryParse(txtMyUserId.Text, out var userId))
@@ -128,16 +128,33 @@ namespace VibeHive.Client
         {
             if (dgvEvents.CurrentRow == null)
                 return;
-           
+
             if (dgvEvents.CurrentRow.DataBoundItem is EventDto ev)
             {
                 txtEventId.Text = ev.Id.ToString();
             }
         }
 
+
+        /*
+         * Return to the main navigation form
+         */
+        private void NavReturnBtn_Click(object sender, EventArgs e)
+        {
+            // Switch to navigation form:
+            NavigationForm navForm = new NavigationForm();
+            navForm.Show();
+
+            // Hide the Navigation form:
+            this.Hide();
+        }
+
+
         private void MainForm_Load(object sender, EventArgs e)
         {
-           
+
         }
+
+        
     }
 }

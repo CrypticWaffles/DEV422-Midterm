@@ -88,7 +88,7 @@
             Mod3BookTicketBtn.TabIndex = 1;
             Mod3BookTicketBtn.Text = "Book Tickets";
             Mod3BookTicketBtn.UseVisualStyleBackColor = true;
-            Mod3BookTicketBtn.Click += this.Mod3BookTicketBtn_Click;
+            Mod3BookTicketBtn.Click += Mod3BookTicketBtn_Click;
             // 
             // Mod3RegUserBtn
             // 
@@ -98,6 +98,7 @@
             Mod3RegUserBtn.TabIndex = 0;
             Mod3RegUserBtn.Text = "Register Account / Login";
             Mod3RegUserBtn.UseVisualStyleBackColor = true;
+            Mod3RegUserBtn.Click += Mod3RegUserBtn_Click;
             // 
             // groupBox3
             // 

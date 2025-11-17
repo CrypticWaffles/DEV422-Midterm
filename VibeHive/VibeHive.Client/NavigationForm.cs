@@ -46,5 +46,19 @@ namespace VibeHive.Client
             // Hide the Navigation form:
             this.Hide();
         }
+
+        /*
+         * Open User Registration form ( RegisterForm.cs ):
+         * Opens the registration and login page when "Register Account / Login" is clicked
+         * The navigation form is hidden afterwards.
+         */
+        private void Mod3RegUserBtn_Click(object sender, EventArgs e)
+        {
+            RegisterForm registerForm = new RegisterForm();
+            registerForm.Show();
+
+            // Hide the Navigation form:
+            this.Hide();
+        }
     }
 }

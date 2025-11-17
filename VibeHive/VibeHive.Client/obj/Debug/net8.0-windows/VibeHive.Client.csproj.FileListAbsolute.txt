@@ -22,6 +22,7 @@ C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\b
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\bin\Debug\net8.0-windows\VibeHive.Client.pdb
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.MainForm.resources
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.NavigationForm.resources
+C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.RegisterForm.resources
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.csproj.GenerateResource.cache
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Jaxon Froderberg\source\repos\DEV422-Midterm\VibeHive\VibeHive.Client\obj\Debug\net8.0-windows\VibeHive.Client.AssemblyInfoInputs.cache
